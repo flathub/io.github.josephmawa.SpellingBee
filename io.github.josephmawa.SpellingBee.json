@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/SpellingBee",
-          "tag": "v0.1.4",
-          "commit": "28db134d05b6ba016dc0e9085c11d6374629c4e8"
+          "tag": "v0.1.5",
+          "commit": "98b0d0e0c56f5a90f92cdea40237f68f3dd7040c"
         }
       ]
     }
