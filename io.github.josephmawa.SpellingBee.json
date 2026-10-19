@@ -1,7 +1,7 @@
 {
   "id": "io.github.josephmawa.SpellingBee",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "io.github.josephmawa.SpellingBee",
   "finish-args": [
@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/SpellingBee",
-          "tag": "v0.1.6",
-          "commit": "7277b321c206806f208b6c81e012be989c8e2321"
+          "tag": "v0.1.7",
+          "commit": "63e82a947bd33bc9bda7e587fa2347f9abf977d3"
         }
       ]
     }
